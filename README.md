@@ -238,9 +238,3 @@ This package is intentionally thin:
 - everything returned from `rxmerr` is safe to inspect with the standard `multierr` API.
 
 If you need to understand the precise behavior of multi‑errors (for example, how errors are flattened or how formatting behaves), refer to the upstream `multierr` documentation. `rxmerr` aims to remain a small, documented façade around it.
-
----
-
-## License
-
-This project is distributed under the terms of the MIT license. See `LICENSE` for details.
