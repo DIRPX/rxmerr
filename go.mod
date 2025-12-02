@@ -1,4 +1,4 @@
-module github.com/dirpx/rxmerr
+module dirpx.dev/rxmerr
 
 go 1.25.4
 
